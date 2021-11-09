@@ -10,9 +10,9 @@ from Company as a,
      Senior_Manager as c,
      Manager as d,
      Employee as e 
-Where e.manager_code = d.manager_code and
-      d.senior_manager_code = c.senior_manager_code and
+Where a.company_code = b.company_code and
       b.lead_manager_code = c.lead_manager_code and
-      a.company_code = b.company_code
+      c.senior_manager_code = d.senior_manager_code and
+      d.manager_code = e.manager_code
 group by a.company_code, a.founder
 order by a.company_code
