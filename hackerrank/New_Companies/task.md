@@ -1,4 +1,4 @@
-<a href="https://www.hackerrank.com/challenges/the-company/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen">Задача описана тут</a>
+<a href="https://www.hackerrank.com/challenges/the-company/problem">Задача описана тут</a>
 
 Решение приведенное в solution само по себе поясняет порядок происходящего. Выполнена группировка отдельно по всем таблицам, получены нужные количества. После этого все таблицы соединены по общему ключу.
 
